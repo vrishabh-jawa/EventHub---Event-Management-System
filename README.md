@@ -16,19 +16,6 @@ A full-stack Event Management System built with HTML, CSS, JavaScript, PHP &amp;
 
 ---
 
-## 👤 Project Details
-
-| Field | Details |
-|-------|---------|
-| **Name** | Vrishabh Jawa |
-| **Subject** | Web Technology (R1UC626C) |
-| **Submitted To** | Ms. Isha Chopra |
-| **University** | Galgotias University, Greater Noida, U.P |
-| **Department** | AI & Data Science, SCSE |
-| **Year** | 2026 |
-
----
-
 ## 📌 About the Project
 
 EventHub is a modern web-based Event Management System that provides a single centralised platform for event discovery, registration, booking, and administration. It eliminates manual work and makes event management simple for both organisers and attendees.
@@ -119,7 +106,13 @@ Three main tables:
 - 📧 jawavrishabh@gmail.com
 - 📞 +91 9953846707
 - 🏫 Galgotias University, Greater Noida, U.P
+<p align="center">Made with ❤️ by Vrishabh Jawa &nbsp;|&nbsp; © 2026 EventHub</p>
 
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vrishabh%20Jawa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrishabh-jawa/)
 ---
 
 <p align="center">Made with ❤️ by Vrishabh Jawa &nbsp;|&nbsp; © 2026 EventHub</p>
