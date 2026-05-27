@@ -51,27 +51,28 @@ EventHub is a modern web-based Event Management System that provides a single ce
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-<!-- Add screenshot here -->
+<img width="1903" height="928" alt="image" src="https://github.com/user-attachments/assets/fe96b2ed-bf75-4d23-8a31-1f6009bb40be" />
+
 &nbsp;
 
 ### 📋 Events Page
-<!-- Add screenshot here -->
+<img width="1900" height="927" alt="image" src="https://github.com/user-attachments/assets/f489426b-ae04-4816-8700-93090ea84895" />
+
 &nbsp;
 
 ### 🔐 Login Page
-<!-- Add screenshot here -->
+<img width="1919" height="927" alt="image" src="https://github.com/user-attachments/assets/bb16d49e-dfbe-458b-865e-629254677fce" />
+
 &nbsp;
 
 ### 👤 Profile Page
-<!-- Add screenshot here -->
-&nbsp;
+<img width="1899" height="926" alt="image" src="https://github.com/user-attachments/assets/6c5456b4-a6cf-4fe0-b3d4-c444de0f8663" />
 
-### 🛡️ Admin Dashboard
-<!-- Add screenshot here -->
 &nbsp;
 
 ### 🎟️ Booking Page
-<!-- Add screenshot here -->
+![Uploading image.png…]()
+
 &nbsp;
 
 ---
@@ -106,7 +107,6 @@ Three main tables:
 - 📧 jawavrishabh@gmail.com
 - 📞 +91 9953846707
 - 🏫 Galgotias University, Greater Noida, U.P
-<p align="center">Made with ❤️ by Vrishabh Jawa &nbsp;|&nbsp; © 2026 EventHub</p>
 
 ---
 
